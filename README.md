@@ -1,1 +1,2 @@
-This  is a description file
+it contains the description of the project
+and nothing else
